@@ -1,0 +1,3 @@
+# GuiTownMods
+贵人镇MOD列表
+所有当前的MOD都在mods文件夹内，commits记录里可以看到更新变化，右上角下载zip文件直接打包全部下载
